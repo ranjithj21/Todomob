@@ -1,0 +1,33 @@
+img{
+    width: 300px;
+    height: 550px;
+    position: absolute;
+    left: 36%;
+    padding:0;
+}
+.list {
+    border: 1px solid red;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    padding: 5px;
+    color: red;
+    border-radius: 10px;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+    z-index: 8;
+}
+.border {
+    border-color: red;
+    border-radius: 5px;
+}
+button {
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    position: absolute;
+    top: 80px;
+    left:105px;
+}
